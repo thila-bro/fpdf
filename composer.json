@@ -1,0 +1,12 @@
+{
+    "name": "thila-bro/fpdf",
+    "description": "composer package for fpdf",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ThilaBro\\Fpdf\\": "src/fpdf185/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
